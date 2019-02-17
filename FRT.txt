@@ -218,7 +218,7 @@
 
 		<nav id="FRLC" class="column">
 			<ul>
-                <li><a href="#"><h3 id="FM">Family</h3></a></li>
+                <li><a href="https://aezcrim.github.io/dear_family/"><h3 id="FM">Family</h3></a></li>
                 <p>
                     Your friends and family will always have a sort of relative-cousin-ish type relationship with each other. A lot of thems they well refer to your parents as their aunts and uncles. There is also a good chance that they will also treat your siblings as if they were also their siblings.  
                 </p>
@@ -230,7 +230,7 @@
 
 		<nav id="FRRC" class="column">
             <ul>
-				<li><a href="#"><h3 id="RV">Partner</h3></a></li>
+				<li><a href="https://aezcrim.github.io/dear_partner/"><h3 id="RV">Partner</h3></a></li>
                 <p>
                     True friends will always have your back when it comes to finding you a partner. They will give you a lot of advice and tips to help you get that girl that you want so bad. They will also tell you when chasing after a girl is no longer worth it. Always consider the advice of people who care about you.
                 </p>
