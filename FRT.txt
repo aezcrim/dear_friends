@@ -1,0 +1,244 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Dear Friends</title>
+	<style type="text/css">
+
+		body {
+			min-width: 800px;
+		}
+
+		#FRB {
+			padding-left: 200px;
+			padding-right: 200px;
+            overflow: hidden;
+		}
+		
+		#FRB .column {
+			position: relative;
+			float: left;
+            padding-bottom: 1000em;
+			margin-bottom: -1000em;
+            padding-top: 1em;
+		}
+        
+		#FRHD {
+			font-size: large;
+			padding: 0.3em;
+			background: #000000;
+            color: #ffffff;
+		}
+		
+		#FRMC {
+			padding: 20px 20px;
+			width: 1000px;
+            text-align: center;
+            color: #ffffff;
+            background: #006400;
+            
+		}
+		
+		#FRLC {
+			width: 144px;
+			padding: 40px 40px;
+			right: 240px;
+			margin-left: -100%;
+            color: #ffffff;
+            background: #080071;
+		}
+		
+		#FRRC {
+			width: 165px;
+			padding: 10px 10px;
+			margin-right: -100%;
+            color: #ffffff;
+            background: rgba(162, 7, 7, 0.79);
+		}
+        
+        #FM {
+            color: #ffffff;
+        }
+        
+        #RV {
+            color: #ffffff;
+        }
+		
+		* html #FRLC {
+			left: 150px;
+		}
+
+		* html body {
+			overflow: hidden;
+		}
+
+
+		body {
+			margin: 0;
+			padding: 0;
+			font-family:Sans-serif;
+			line-height: 1.5em;
+		}
+
+		nav ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+		}
+		
+		nav ul a {
+			color: #000000;
+			text-decoration: none;
+		}
+		
+	</style>
+		
+</head>
+
+<body id="FRA">
+
+	<header id="FRHD"><p>What is Love? Baby, don't hurt me...</p></header>
+
+	<div id="FRB">
+
+		<main id="FRMC" class="column">
+			<article>
+			<div id="FR">
+			<h1>Dear Friends</h1>
+            <section id="FR1">
+                <div>
+                It's been a while since we've met, you know
+                </div>
+                <div>
+                Especially me 'cause I always stay at home
+                </div>
+                <div>
+                So I know that it's technically my fault
+                </div>
+                <div>
+                But I hope you understand that doesn't mean I no longer love you all
+                </div>
+                <div>
+                Ew he said love, think of philia, please
+                </div>
+                <div>
+                Don't make it any weirder than it needs to be
+                </div>
+                <div>
+                No homo, follow the bro-code ever since we were all single
+                </div>
+                <div>
+                Now, some with partners, some without, but we're all still people
+                </div>
+            </section>
+            <section id="FR2">
+                <h2></h2>
+                <div>
+                As I listen to Eminem and also Royce 
+                </div>
+                <div>
+                I remember all the good times with the boys
+                </div>
+                <div>
+                Ever since years ago in grade five to nine to present day
+                </div>
+                <div>
+                Bonds formed and strengthened overtime into its current state
+                </div>
+                <div>
+                Even when you assholes took all of the chocolate in the fridge
+                </div>
+                <div>
+                The M&M'S, Snickers, Musketeers, and all of the other shit
+                </div>
+                <div>
+                Like the cup noodles, cereal, pizza, and even the cheetos
+                </div>
+                <div>
+                So much stuff left the housevold via me amigos
+                </div>
+            </section>
+            <section id="FR3">
+                <h2></h2>
+                <div>
+                And for everyone else that isn't in the G
+                </div>
+                <div>
+                Don't worry, because you're still valuable to me
+                </div>
+                <div>
+                Friends are friends, and I'm thankful as hell
+                </div>
+                <div>
+                And to have so many is truly a blessing as well
+                </div>
+                <div>
+                I love all my friends, no matter the suffix placed before
+                </div>
+                <div>
+                Whether it's "girl-", "best-" or even when it's nothing more
+                </div>
+                <div>
+                And I'm so proud of those who have improved and become happier
+                </div>
+                <div>
+                It makes me glad to know that you're moving forward snappier
+                </div>
+            </section>
+            <section id="FR4">
+                <h2></h2>
+                <div>
+                And here's cheers to the future that will continue to come near
+                </div>
+                <div>
+                With the strength from the dreams and comrades we hold dear
+                </div>
+                <div>
+                College is tough, relationships are difficult, and life is hard
+                </div>
+                <div>
+                But don't give up from the bottom of your heart
+                </div>
+                <div>
+                Because like all of the philosophies I've shared and believe to be true, man
+                </div>
+                <div>
+                Stay positive, keep your head up, but please understand, that you're only human
+                </div>
+                <div>
+                Help will always come, if you work to help yourself too
+                </div>
+                <div>
+                And consider the advice, even if you forget the person who gave them to you
+                </div>
+            </section>
+                </div>
+			
+			</article>								
+		</main>
+
+		<nav id="FRLC" class="column">
+			<ul>
+                <li><a href="#"><h3 id="FM">Family</h3></a></li>
+                <p>
+                    Your friends and family will always have a sort of relative-cousin-ish type relationship with each other. A lot of thems they well refer to your parents as their aunts and uncles. There is also a good chance that they will also treat your siblings as if they were also their siblings.  
+                </p>
+                <p>
+                    Your family should always tell you to choose your friends carefully. But when you've had your friends for years, it's almost like you've got more siblings that you just don't see as often.
+                </p>
+			</ul>
+		</nav>
+
+		<nav id="FRRC" class="column">
+            <ul>
+				<li><a href="#"><h3 id="RV">Partner</h3></a></li>
+                <p>
+                    True friends will always have your back when it comes to finding you a partner. They will give you a lot of advice and tips to help you get that girl that you want so bad. They will also tell you when chasing after a girl is no longer worth it. Always consider the advice of people who care about you.
+                </p>
+                <p>
+                    Teasing is also commonplace and it may get annoying, but if it works it works. In my experience, I found out the girl liked me. I was hesitant because I was scared it wouldn't work. Friends gave me advice. I considered it. And now I've been in a relationship for about 8 months. Thanks guys.
+                </p>
+			</ul>
+         </nav>
+		</div>
+</body>
+</html>
